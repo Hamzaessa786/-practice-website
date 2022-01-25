@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+    <body>
+    <head>
+    <image alt="hello">
+        <title>test website</title>
+    </head>
+    <body>
+        <div class="container">
+
+            <nav class="bx navbar">
+                <div class="header logo">
+                    <image src="image.jpg" alt="header logo">
+                    </div>
+    <div class="header link">
+        <a href="README.md">
+        <a href="website">
+        </div>
+        </nav>
+        
+        <div class="bx hero">
+          <div class="hero-1 hero-cta">
+              <h1>this website is awesome</h1>
+              <p>This website has some subtext that goes here under the main title.
+                  It's a smaller font and the color is lower contrast</p>
+                  <button type="button">sign up</button>
+          </div>
+          <div class="hero-1 hero image">
+              <image src="images" alt="greatest hero">
+          </div>  
+        </div>
+
+        <div class="bx content">
+          <image src="images">
+              <p>this is some subtext under an illustration or image</p>
+          </div>
+          <div>
+              <image src="website">
+                  <p>this is some subtext under an illustration or image</p>
+          </div>
+          <div>
+              <image src="images">
+                  <p>this is some subtext under an illustration or image</p>
+        </div>
+        <div>
+            <image src="image">
+                <p>this is some subtext under an illustration or image</p>
+        </div>
+          <div>
+              
+          </div>  
+        </div>
+       <div class="bx quote">
+           <p>this is an inspiring quote,or a testimonial from a customer.
+                Maybe it's just filling up space,or maybe people will acctually read it.
+            Who knows? All i know is that it looks nice</p>
+            <b>
+                -Thor,God of thunder
+            </b>
+       </div>
+       <div class="bx sign up">
+        <div class="sign item sign text">
+            <h3>Call to action!It's time!</h3>
+            <p>sign up for our product by clicking that button over there</p>
+        </div>
+        <div class="sign up sign button">
+            <button type="button">sign up</button>
+        </div>  
+       </div>
+       <div class="bx footer">
+           <p>Copyright © The odin Project 2021</p>
+       </div> 
+       </body>
+</html>
