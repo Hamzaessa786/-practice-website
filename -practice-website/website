@@ -1,23 +1,23 @@
 <!doctype html>
 <html>
-    <body>
+<body>
     <head>
-    <link href="css">
+    <link href="css"
     <image alt="hello">
         <title>test website</title>
     </head>
-    <body>
-        <div class="container">
+    
 
+        <div class="container">
             <nav class="bx navbar">
                 <div class="header logo">
                     <image src="image.jpg" alt="header logo">
-                    </div>
-    <div class="header link">
-        <a href="README.md">
-        <a href="website">
-        </div>
-        </nav>
+                </div>
+                <div class="header-link">
+                    <a href="README.md">
+                    <a href="website">
+                </div>
+            </nav>
         
         <div class="bx hero">
           <div class="hero-1 hero-cta">
@@ -71,5 +71,5 @@
        <div class="bx footer">
            <p>Copyright © The odin Project 2021</p>
        </div> 
-       </body>
+</body>
 </html>
