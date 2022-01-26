@@ -2,7 +2,7 @@
 <html>
 <body>
     <head>
-    <link href="css"
+    <link rel="stylesheet" href="css">
     <image alt="hello">
         <title>test website</title>
     </head>
