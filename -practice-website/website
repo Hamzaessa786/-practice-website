@@ -2,6 +2,7 @@
 <html>
     <body>
     <head>
+    <link href="css">
     <image alt="hello">
         <title>test website</title>
     </head>
