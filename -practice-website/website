@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="css">
         <title>Types of animals</title>
     </head>
+</body>
         <div class="container">
 
             <nav class="bx navbar">
@@ -12,9 +13,9 @@
                     <image src="3683.jpg" alt="header logo">
                 </div>
                 <div class="header-link">
-                    <a href="About"></a>
-                    <a href="Shop"></a>
-                    <a href="Contact"></a>
+                    <a href="#">About</a>
+                    <a href="#">Shop</a>
+                    <a href=>"#"Contact></a>
                 </div>
             </nav>
         
@@ -71,5 +72,4 @@
        <div class="bx footer">
            <p>Copyright © The odin Project 2021</p>
        </div> 
-</body>
 </html>
