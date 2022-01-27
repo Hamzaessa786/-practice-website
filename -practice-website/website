@@ -3,19 +3,18 @@
 <body>
     <head>
     <link rel="stylesheet" href="css">
-    <image alt="hello">
-        <title>test website</title>
+        <title>Types of animals</title>
     </head>
-    
-
         <div class="container">
+
             <nav class="bx navbar">
                 <div class="header logo">
-                    <image src="image.jpg" alt="header logo">
+                    <image src="3683.jpg" alt="header logo">
                 </div>
                 <div class="header-link">
-                    <a href="README.md">
-                    <a href="website">
+                    <a href="About"></a>
+                    <a href="Shop"></a>
+                    <a href="Contact"></a>
                 </div>
             </nav>
         
@@ -24,14 +23,15 @@
               <h1>this website is awesome</h1>
               <p>This website has some subtext that goes here under the main title.
                   It's a smaller font and the color is lower contrast</p>
-                  <button type="button">sign up</button>
+                 <button type="button">sign up</button>
           </div>
-          <div class="hero-1 hero image">
+          <div class="hero-1 hero-image">
               <image src="images" alt="greatest hero">
           </div>  
         </div>
 
         <div class="bx content">
+            <h2>This is some random information</h2>
           <image src="images">
               <p>this is some subtext under an illustration or image</p>
           </div>
