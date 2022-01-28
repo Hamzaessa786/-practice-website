@@ -57,7 +57,7 @@ body{
     display: flex;
     flex-direction: column;
     text-align: left;
-    margin-right: 50px;
+    margin-right:50px;
 }
 
 .hero-cta p{
@@ -91,19 +91,19 @@ height: 350px;
 .content{
     align-items: center;
 }
-.content-text{
-    background-color: white;
-    color: blue;
-    padding: 0px;
-    margin: auto;
-    font-size:auto ;
+
+.content-info{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
 }
-.content-images{
+.content-info img{
     width: 200px;
     height: 200px;
     border:blue;
-    border-radius:30px;
+    border-radius:15px;
     object-fit: cover;
+    margin: 5px 20px 0px 20px;
 }
 .quote{
     text-align: center;

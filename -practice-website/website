@@ -32,13 +32,15 @@
 
         <div class="bx content">
             <h2>These are pictures on few of the avengers</h2>
+            <div class="content-info">
+            <div>
           <image src="Thor-EndgameProfile.jpg">
               <p>This is the god of thunder</p>
           </div>
           <div>
               <image src="Best-Movie-Reboots-The-Incredible-Hulk.jpg">
                   <p>Strongest avenger</p>
-          </div>
+                </div>
           <div>
               <image src="Hawkeye.jpg">
                   <p>The man who never missed a shot</p>
