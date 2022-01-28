@@ -47,7 +47,7 @@ body{
  align-items:center;
  display:flex;
  padding: 90px;
- color: aqua;
+ color: blue;
  background-color: red;
  justify-content: center;
 }
@@ -77,24 +77,23 @@ body{
     display:block;
     text-align: center;
     color:blue;
-    padding: auto;
+    padding: 0;
     font-family: Arial, Helvetica, sans-serif;
      border: none;
      border-radius: 8px;
-     font-weight: bold;
-     font-weight: bold;
+     font-weight: bold;;
 }
 
 .hero-image{
-width:500px;
+width: 400px;
 height: 350px;
 }
 .content{
     align-items: center;
 }
 .content-text{
-    background-color: red;
-    color: aqua;
+    background-color: white;
+    color: blue;
     padding: 0px;
     margin: auto;
     font-size:auto ;
@@ -113,7 +112,7 @@ height: 350px;
     background: color #e5e7eb;
 }
 .quote p{
-    font-size: 90%;
+    font-size: 17px;
     color: royalblue;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -123,12 +122,12 @@ height: 350px;
        color: black;
        font-style: oblique;
        font-family: fantasy;
+       text-align: end;
    }
    .sign-up{
-       text-align: left;
+       text-align:center;
        background-color: blue;
        margin:0px;
-        padding: auto;
    }
    .sign-up h3{
      font-size:1.2em ;
@@ -146,7 +145,7 @@ height: 350px;
         display: block;
         text-align: center;
         color: white;
-        padding: auto;
+        padding: 0;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: lighter;
         border: none;
